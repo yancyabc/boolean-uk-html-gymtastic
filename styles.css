@@ -1,0 +1,91 @@
+body { 
+    font-family: Arial;
+}
+
+.headings { 
+    color: white
+}
+
+.title { 
+    color: rgb(64, 147, 224)
+}
+
+.button {
+    color: orange
+}
+
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 1000px;
+    height: 70px;
+    padding:15px;
+    margin: 0px;
+    background-color: blue; 
+}
+
+.main-paragraph {
+    width: 1000px;
+    height: 70px;
+    padding: 0px;
+    margin: 25px;
+
+}
+
+.footer {
+    width: 1000px;
+    height: 200px;
+    padding:15px;
+    margin: 0px;
+    background-color: blue 
+}
+
+.insta-button {
+    width: 100px;
+    height: 50px;
+    padding:15px;
+    margin: 20px;
+    background-color: rgba(149, 80, 240, 0.911);
+    border: solid 1px grey;
+}
+
+.facebook-button {
+    width: 100px;
+    height: 50px;
+    padding:15px;
+    margin: 20px;
+    border: 10px black;
+    background-color:rgb(64, 147, 224);
+    border: solid 1px grey;
+}
+
+.youtube-button {
+    width: 100px;
+    height: 50px;
+    padding:15px;
+    margin: 20px;
+    background-color: red;
+    border: solid 1px grey;
+}
+
+.membership-button {
+    width: 200px;
+    height: 50px;
+    padding:15px;
+    margin: 10px;
+    border: solid 2px orange;
+}
+
+.rounded-lg {
+    border-radius: 16px;
+  }
+
+.light-shadow {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+  }
+
